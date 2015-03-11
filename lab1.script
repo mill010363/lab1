@@ -1,0 +1,15 @@
+Script started on 2015年03月11日 (週三) 10時43分27秒
+]0;H34036071@2015cpp: ~H34036071@2015cpp:~$ whoami;pwd
+H34036071
+/home/H34036071
+]0;H34036071@2015cpp: ~H34036071@2015cpp:~$ git config -l
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;H34036071@2015cpp: ~H34036071@2015cpp:~$ git clone https://github.com/mill010363/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;H34036071@2015cpp: ~H34036071@2015cpp:~$ exit
+
+Script done on 2015年03月11日 (週三) 10時44分14秒
